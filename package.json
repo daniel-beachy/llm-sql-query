@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "openai": "^4.28.4",
+    "prompt-sync": "^4.2.0",
+    "sqlite3": "^5.1.7"
+  },
+  "type": "module"
+}
